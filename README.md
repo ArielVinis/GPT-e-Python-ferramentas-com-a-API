@@ -1,5 +1,9 @@
 # OpenAI: Curso 1
 
+Para isso, foi usado a biblioteca da openai:
+
+    pip install openai python-dotenv pydub instabot Pillow
+
 ## 01. Playground e a API da OpenAI
 
 * Ajustar os parâmetros do PlayGround como temperatura e comprimento máximo para controlar a criatividade e a saída do GPT, visando gerar respostas mais coerentes e adaptadas aos contextos desejados.
