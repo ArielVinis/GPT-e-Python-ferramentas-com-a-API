@@ -1,4 +1,4 @@
-# OpenAI: Curso 1
+# OpenAI: GPT e Python: criando ferramentas com a API
 
 Para isso, foi usado a biblioteca da openai:
 
